@@ -13,9 +13,11 @@ export function renderListItem(planets) {
     const nameSpan = document.createElement('span');
     nameSpan.textContent = planets.name;
     nameSpan.classList.add('name');
+   
+    
 
     
-    div.append(img, nameSpan, a);
+    div.append(img, nameSpan, a,);
     return div;
 }
 

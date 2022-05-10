@@ -2,7 +2,8 @@ export const planets = [
     { id: '1',
         name: 'venus',
         type: 'm', 
-        says: 'Venus is the second planet from the Sun and the sixth largest.'
+        says: 'Venus is the second planet from the Sun and the sixth largest.',
+        
     },
     {
         id: '2',

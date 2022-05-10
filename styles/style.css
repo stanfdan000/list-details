@@ -29,6 +29,7 @@ body {
     
     font-family: 'Titillium Web', sans-serif;
     background-color: var(--color2);
+   
 }
 
 main {
@@ -89,3 +90,4 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+

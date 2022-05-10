@@ -1,1 +1,9 @@
 /* add home page styles here */
+.planets {
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+    width: 250px;
+}
+
+   

@@ -1,1 +1,8 @@
 /* add home page styles here */
+#solar {
+    display: center ;
+    flex-direction: row;
+   width: 150px;
+   
+}
+

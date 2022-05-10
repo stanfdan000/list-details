@@ -2,11 +2,11 @@
 body {
     /* feel free to update these css variables for a quick theme */
     
-    --color1: white;
-    --color2: white;
-    --color3: white;
-    --color4: white;
-    --color5: white;
+    --color1: rgb(255, 255, 255);
+    --color2: rgb(246, 14, 14);
+    --color3: rgb(164, 77, 77);
+    --color4: rgb(217, 255, 0);
+    --color5: rgb(0, 255, 94);
     
     /* https://coolors.co/generate and click export -> scss to get the colors to copy and paste below*/
         
@@ -60,6 +60,9 @@ header {
     background-color: var(--color3);
     height: var(--header-height);
     box-shadow: var(--shadow);
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: stretch;
 }
 
 
